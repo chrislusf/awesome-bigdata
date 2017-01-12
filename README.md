@@ -83,6 +83,7 @@ Your contributions are always welcome!
 * [Facebook Corona](https://www.facebook.com/notes/facebook-engineering/under-the-hood-scheduling-mapreduce-jobs-more-efficiently-with-corona/10151142560538920) - Hadoop enhancement which removes single point of failure.
 * [Facebook Peregrine](http://peregrine_mapreduce.bitbucket.org/) - Map Reduce framework.
 * [Facebook Scuba](https://www.facebook.com/notes/facebook-engineering/under-the-hood-data-diving-with-scuba/10150599692628920) - distributed in-memory datastore.
+* [Gleam](https://github.com/chrislusf/gleam) - Fast, efficient, and scalable distributed map/reduce system written in pure Go and LuaJIT, combining Go's high concurrency with LuaJIT's high performance, runs standalone or distributed.
 * [Google Dataflow](http://googledevelopers.blogspot.it/2014/06/cloud-platform-at-google-io-new-big.html) - create data pipelines to help themæingest, transform and analyze data.
 * [Google MapReduce](http://research.google.com/archive/mapreduce.html) - map reduce framework.
 * [Google MillWheel](http://research.google.com/pubs/pub41378.html) - fault tolerant stream processing framework.
